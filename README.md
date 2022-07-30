@@ -8,8 +8,8 @@ I am web developer, I have a year and a half years of professional experience in
 
 * 🌍  I'm based in iran
 * ✉️  You can contact me at [rezafarhangian79@gmail.com](mailto:rezafarhangian79@gmail.com)
-* 🧠  I'm learning typeScript
-* ⚡  I love Hacking and security
+* 🧠  I'm learning react-js
+* ⚡  I love front-end
 
 <a href="https://www.github.com/rezafarhangian" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/rezafarhangian?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a>
