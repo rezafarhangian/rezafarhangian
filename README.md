@@ -4,7 +4,7 @@ Hi 👋 My name is Reza
 front-end developer
 -------------------
 
-I am web developer, I have a year and a half years of professional experience in developing mid to large-scale websites and web applications based on web standard technologies
+
 
 * 🌍  I'm based in iran
 * ✉️  You can contact me at [rezafarhangian79@gmail.com](mailto:rezafarhangian79@gmail.com)
